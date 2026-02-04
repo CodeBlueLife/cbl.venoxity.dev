@@ -16,7 +16,7 @@ export const metadata = createMetadata({
     template: '%s | CodeBlueLife',
     default: 'CodeBlueLife',
   },
-  description: 'The Next.js framework for building documentation sites',
+  description: 'A modern FiveM framework',
   metadataBase: baseUrl,
 })
 
