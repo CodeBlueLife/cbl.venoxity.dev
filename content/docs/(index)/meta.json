@@ -4,6 +4,6 @@
   "icon": "Book",
   "root": true,
   "pages": [
-    "index",  
+    "index"  
   ]
 }
