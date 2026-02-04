@@ -13,7 +13,7 @@ const inter = Inter({
 
 export const metadata = createMetadata({
   title: {
-    template: '%s | CodeBlueLife',
+    template: '%s | CBL',
     default: 'CodeBlueLife',
   },
   description: 'The Next.js framework for building documentation sites',
