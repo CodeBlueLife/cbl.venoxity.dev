@@ -3,28 +3,14 @@ title: Cilent
 description: Here is a list of some of the functions that you can use specifically in client side scripts.
 ---
 
-### AddBlip
-* id 
-* name
-* coords
-* sprite
-* colour
-* scale
-* display 
-* category
-* flashes
+import { TypeTable } from 'fumadocs-ui/components/type-table';
 
-### RemoveBlip
-* id 
-
-### RemoveAllBlips
-```lua tab="Lua"
-exports["cbl-blips"]:RemoveAllBlips()
-```
-
-```js tab="JavaScript"
-exports["cbl-blips"].RemoveAllBlips();
-```
-
-### SetBlipWaypoint
-* id 
+<TypeTable
+  type={{
+    percentage: {
+      description: 'The percentage of scroll position to display the roll button',
+      type: 'number',
+      default: 0.2,
+    },
+  }}
+/>
