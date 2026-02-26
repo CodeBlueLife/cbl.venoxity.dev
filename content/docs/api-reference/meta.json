@@ -3,5 +3,5 @@
   "description": "A demo for Fumadocs OpenAPI",
   "root": true,
   "icon": "Webhook",
-  "pages": ["---API Reference---", "index"]
+  "pages": ["---API Reference---", "---CBL Keybinds---", "index"]
 }
